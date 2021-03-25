@@ -6,10 +6,8 @@
 </a></p>
 
 ![Test Image 1](PicsArt_03-26-01.50.01.jpg)
-<h3><b><i>☠ Works :</i></b></h3>
-<li> <a href="https://github.com/Ethical-404/RED-FB">RED-FB - Automated RED-FB Open.</a>
-<li> <a href="https://github.com/Ethical-404/Encode">Encode - Encode Open.</a>
-<li> <a href="https://github.com/Ethical-404/Reverse-Engineering">Reverse Engineering - Some Tools Reverse Engineered by me.</a>
-<li> <a href="https://github.com/Ethical-404/host">Host - Temporarily Host Files from your device with this tool.</a>
-<li> <a href="https://github.com/Ethical-404/track-ip">Track-IP - An IP Tracking Tool written in Bash.</a>
-<li> <a href="https://github.com/modded-ubuntu/modded-ubuntu">Modded Ubuntu - Run Ubuntu GUI on termux based on Proot-Distro.</a>
+![github stats](https://github-readme-stats.vercel.app/api?username=Ethical-404&show_icons=true&theme=dark)
+<a href="https://github.com/Ethical-404/Encode"><img title="Encode" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayan-XD&repo=Silent&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Ethical-404/RED-FB"><img title="RED-FB" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayan-XD&repo=Craker&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Ethical-404/Coming"><img title="Coming" src="https://github-readme-stats.vercel.app/api/pin/?username=Ethical-404&repo=Cr4ck&theme=vision-friendly-dark"></a>
+
