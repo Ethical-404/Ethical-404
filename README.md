@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Ethical-404"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethical-404&layout=compact&theme=react&hide_border=true" />
 </a></p>
-
+![Test Image 1](VID-20210403-WA0050.mp4)
 ![Test Image 1](PicsArt_03-26-01.50.01.jpg)
 
 <a href="https://github.com/Ethical-404/Encode"><img title="Encode" src="https://github-readme-stats.vercel.app/api/pin/?username=Ethical-404&repo=Encode&theme=vision-friendly-dark"></a>
